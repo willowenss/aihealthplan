@@ -14,8 +14,6 @@ Project Notes:
 
 ## Project PI/Project Team 
 **Due October 26, 11:59pm**
-
-Name, Vandy email, VUNetID, Role
 Will Owens
 will.b.owens@vanderbilt.edu
 owenswb
