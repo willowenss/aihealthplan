@@ -16,13 +16,19 @@ Project Notes:
 **Due October 26, 11:59pm**
 
 Name, Vandy email, VUNetID, Role
+Will Owens
+will.b.owens@vanderbilt.edu
+owenswb
+working on Nirmit Chandan's repository (with him) on a 
+Proposal for AI-Powered Personalized Fitness and Diet Planning. See his repo
 
 ## Project Proposal 
 **Due October 26, 11:59pm**
 
-300-1000 words total across all of the sections below
 
 ### Description of Problem/Opportunity
+In today's fast-paced world, a one-size-fits-all approach to fitness and nutrition often falls short of addressing individual needs. Every person is unique, with different genetic makeup, health histories, lifestyles, and goals. Recognizing these nuances, this proposal aims to introduce a personalized fitness and diet planning service powered by AI.
+
 
 ### Proposed Solution/Approach
 
